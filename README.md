@@ -1,2 +1,6 @@
-# mirea-theme
-Theme for https://online-edu.mirea.ru/
+# Mirea-theme
+### Темная тема для СДО https://online-edu.mirea.ru/
+
+Для установки этого стиля вы можете использовать https://stylebot.dev/ или другие расширения, где вы можете кодировать CSS вручную.
+Он **НЕ** адаптирован под Tampermonkey, а так же есть немало косяков, которые я не могу решить в силу того что я лс ( а еще мне лень и вообще кто будет париться над сайтом вуза).
+![image](https://github.com/alansidd/mirea-theme/assets/58386155/b8e029a0-8bb5-4e2e-b3d3-e4515efa4d87)
