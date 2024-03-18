@@ -1,0 +1,1322 @@
+/*
+Палитра цветов
+Фон #111112
+Блоки  #18181a
+Ховеры ссылок  #5a88ce
+Ховеры блоков #2E2E32
+*/
+ 
+/*Замена ФИО на свое слово
+.userbutton {
+	font-size: 0;
+}
+
+.userbutton::before {
+	font-size: 16px;
+	content: 'Lord Have Mercy';
+	position: relative;
+	top: 6px;
+}
+*/
+
+[class="list-group-item list-group-item-action  " href="https:/\/online-edu.mirea.ru/grade/report/index.php?id=992"] {
+	border-radius: 10px 0 0;
+}
+
+li:nth-of-type(4) > .list-group-item {
+	width: 230.89px;
+	margin-top: 8px;
+}
+
+[id="moodle-dialogue-yui_3_17_2_2_1698423392064_8-wrap-header-text"] {
+	color: #fff;
+}
+
+
+
+
+/*Следующая страница*/
+#page-mod-quiz-attempt .submitbtns .mod_quiz-next-nav, #page-mod-quiz-review .submitbtns .mod_quiz-next-nav {
+	margin-left: auto;
+	position: relative;
+	left: -10px;
+}
+
+/*Счетчик оставшегося времени*/
+#quiz-timer-wrapper #quiz-timer {
+	border: 1px solid #186bae;
+	background-color: #186bae;
+	position: relative;
+	top: 2px;
+	left: -10px;
+	border-radius: 8px;
+}
+
+/*Левый блок с номером вопроса*/
+.que .info {
+	border: 1px solid #0b82f778;
+	border-radius: 10px;
+}
+
+/*Блок с вопросом*/
+.que .info {
+	float: left;
+	width: 7em;
+	padding: 0.5em;
+	margin-bottom: 1.8em;
+	background-color: #18181a;
+	border: 1px solid #cad0d7;
+}
+
+/*Оставшееся время*/
+#quiz-timer-wrapper #quiz-timer {
+	border: 1px solid #186BAEFF;
+	background-color: #186BAEFF;
+}
+
+/*основа с вопросом*/
+.que .formulation {
+	color: #fff;
+	background-color: #18181a;
+	border-color: #18181a;
+}
+
+/*номер вопроса часть с номером*/
+.path-mod-quiz #mod_quiz_navblock .qnbutton {
+	text-decoration: none;
+	font-size: 14px;
+	line-height: 20px;
+	font-weight: 400;
+	background-color: #2E2E32;
+	background-image: none;
+	height: 40px;
+	width: 30px;
+	border-radius: 3px;
+	border: 0;
+	overflow: visible;
+	margin: 0 6px 6px 0;
+}
+
+/*область ответа*/
+.path-mod-quiz #mod_quiz_navblock .qnbutton.complete .trafficlight, .path-mod-quiz #mod_quiz_navblock .qnbutton.answersaved .trafficlight, .path-mod-quiz #mod_quiz_navblock .qnbutton.requiresgrading .trafficlight {
+	background-color: #186BAEFF;
+}
+
+/*фон блока номера вопроса*/
+.path-mod-quiz #mod_quiz_navblock .qnbutton .trafficlight {
+	border: 0;
+	background: #2E2E32 none center/10px no-repeat scroll;
+	height: 20px;
+	margin-top: 20px;
+	border-radius: 0 0 3px 3px;
+}
+
+/*Бордеры остальных вопросов*/
+.path-mod-quiz #mod_quiz_navblock .qnbutton .thispageholder {
+	border: 0px solid;
+	border-radius: 3px;
+	z-index: 1;
+}
+
+/*Бордер активнова вопроса*/
+.path-mod-quiz #mod_quiz_navblock .qnbutton.thispage .thispageholder {
+	border-width: 2px;
+	border-color: #186BAEFF;
+}
+
+.activity-information {
+	margin-top: 5px;
+}
+
+[style="background-color: #FBC15D; padding: 10px; text-align: center; margin-top: 45px; margin-bottom:-40px"] {
+	background-color: #7B50BB;
+}
+
+
+/*Палитра цветов
+Фон #111112
+Блоки  #18181a
+Ховеры ссылок  #5a88ce
+Ховеры блоков #2E2E32
+*/
+
+.earlysubmission.cell.c1.lastcol {
+	background-color: #7B50BB;
+}
+
+.path-mod-assign td.submissionstatussubmitted, .path-mod-assign div.submissionstatussubmitted, .path-mod-assign a:link.submissionstatussubmitted {
+	background-color: #7B50BB;
+}
+
+.path-mod-assign td.submissiongraded, .path-mod-assign div.submissiongraded {
+	background-color: #7B50BB;
+}
+
+[style="background-color: #ffff00;"] {
+	background-color: #7B50BB;
+}
+
+#yui_3_17_2_1_1689451339774_48 {
+	background-color: #18181a;
+}
+
+[style="background-color: #FBEC5D; padding: 10px; text-align: center; margin-top: 45px; margin-bottom:-40px"] {
+	background-color: #18181a;
+}
+/*Тест*/
+nav.list-group:nth-of-type(1) > ul > li:nth-of-type(3) > .list-group-item-action.list-group-item {
+	border-radius: 0 0 10px 10px;
+}
+
+/*Шрифт*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+
+.small, span, a, b, p, h1, h2, h3, h4, h5, h6, strong, label {
+	font-family: Comfortaa;
+}
+
+
+/*Шапка*/
+
+.btn:not(:disabled):not(.disabled) {
+	cursor: pointer;
+	border-radius: 10px;
+}
+
+.navbar {
+	background-color: #111112;
+}
+
+.navbar-fhs .navbar-brand {
+	color: #ECECECFF;
+}
+
+.navbar-fhs .navbar-nav .nav-link {
+	color: #ECECECFF;
+}
+
+span.userbutton {
+	color: #ECECECFF;
+}
+
+.btn-secondary {
+	border-color: #ECECEC00;
+}
+
+.navbar.fixed-top .dropdown .dropdown-menu {
+	border-radius: 0px 0px 10px 10px;
+}
+
+.navbar.fixed-top .dropdown .dropdown-menu {
+	border: none;
+}
+
+/*левое меню*/
+
+#nav-drawer {
+	padding-top: 25px;
+}
+
+.list-group-item-action {
+	color: #868E96;
+}
+
+[data-region="drawer"] {
+	background-color: #111112;
+}
+
+.list-group-item-action:hover, .list-group-item-action:focus {
+	z-index: 1;
+	color: #DEDEDEFF;
+	text-decoration: none;
+	background-color: #2E2E32FF;
+}
+
+.list-group-item {
+	padding: 12px 4px 12px 8px;
+	margin-right: 4px;
+	display: block;
+	background-color: #18181a;
+	border: 1px solid rgba(0,0,0,.125);
+}
+
+.list-group-item[data-key="mycourses"] {
+	border-radius: 10px 10px 0px 0px;
+}
+
+li:nth-of-type(4) > .list-group-item-action.list-group-item {
+	border-radius: 0px 0px 10px 10px;
+}
+
+li:nth-of-type(1) > .list-group-item-action.list-group-item {
+	border-radius: 10px 10px 0px 0px;
+}
+
+li:nth-of-type(1) > .active_tree_node.active.list-group-item-action.list-group-item {
+	border-radius: 10px 10px 0 0;
+}
+
+nav.list-group:nth-of-type(1) > ul > li:nth-of-type(3) > .list-group-item-action.list-group-item {
+	border-radius: 0 0 0px 0px;
+}
+
+li:nth-of-type(16) {
+	border-radius: 10px 10px 0 0;
+}
+
+/*Тело*/ /*Надпись (мои курсы)*/
+body {
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+	color: #ECECECFF;
+	background-color: #111112;
+}
+
+.pagelayout-mydashboard #region-main {
+	background-color: #111112;
+}
+
+.pb-3.pt-3.col-12 {
+	padding-left: 16px;
+	padding-top: 25px;
+}
+
+.btn-outline-secondary:not(:disabled):not(.disabled):active, .btn-outline-secondary:not(:disabled):not(.disabled).active, .show>.btn-outline-secondary.dropdown-toggle {
+	background-color: #111112;
+	border-color: #111112;
+}
+
+.btn-outline-secondary {
+	border-color: #868e9663;
+}
+
+.card {
+	border-radius: 10px;
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	min-width: 0;
+	word-wrap: break-word;
+	background-color: #18181a;
+	-webkit-background-clip: border-box;
+	background-clip: border-box;
+	border: 1px solid rgba(0,0,0,.125);
+}
+
+/*шкала прогресса*/
+
+.block .block-cards .progress {
+	height: 0.55rem;
+	border-radius: 10px;
+	background-color: #DEDEDEFF;
+}
+
+.border, .filemanager-container, .filepicker-filelist {
+	border: none;
+}
+
+.progress-bar {
+	border-color: #186bae;
+	background-color: #186bae;
+}
+
+
+
+/*блок справа*/
+#region-main-box > .d-print-none {
+	padding-top: 150px;
+}
+
+.editing aside#block-region-side-pre {
+	border: 0px dashed #dee2e6;
+	min-height: 10rem;
+}
+
+.block_course_contents .section-number {
+	color: #f8f8f8;
+	background-color: #186BAEFF;
+}
+
+
+
+/*помощь по сайту */
+
+.notranslate.__show_f83e._bottom_da79.label_d9f3 {
+	display: none;
+}
+
+.dropdown-menu {
+	background-color: #111112;
+}
+
+.dropdown-menu {
+	color: #868E96;
+}
+
+
+
+
+/*Главное меню*/
+#region-main {
+	border: 0px solid #dee2e6;
+	padding: 1rem;
+	background-color: #111112;
+}
+
+.section li.activity {
+	border-bottom: 1px solid #323336FF;
+	font-size: 16px;
+}
+
+.course-content ul.collapsibletopics li.section .sectionname {
+	color: #5a88ce;
+}
+
+#region-main {
+	border-radius: 10px;
+	padding: 0px;
+	background-color: #18181a;
+	margin-left: 0px;
+}
+
+.text-info {
+	color: #5a88ce!important;
+}
+
+.course-content ul.collapsibletopics li.section .content {
+	padding-right: 10px;
+	padding-left: 5px;
+}
+
+.no-overflow {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+body#page-site-index>div#page-wrapper>div#page>div#learningcontent>header#page-header .pt-3 {
+	padding-top: 25px;
+}
+
+/*календарь*/
+
+
+td.duration_finish.calendar_event_course.hasevent.text-center.day {
+	background-color: #CC0000;
+}
+
+.popover-header {
+	background-color: #262629;
+	border-radius: 10px 10px 0 0;
+}
+
+.popover {
+	background-color: #262629;
+	border-radius: 10px;
+}
+
+.popover-body {
+	color: #ECECECFF;
+}
+
+.bs-popover-top>.arrow::after {
+	border-top-color: #262629;
+}
+
+.calendar_event_course {
+	background-color: #CC0000;
+	margin: 0px;
+	border-radius: px;
+}
+
+.calendar_event_course.clearfix.card-header.box {
+	border-radius: 8px;
+}
+
+#day-navigation-56 {
+	margin-top: 15px;
+}
+
+.path-calendar .maincalendar .calendar_event_course {
+	border-color: #CC0000;
+}
+
+.text-center.current {
+	margin-top: 10px;
+}
+
+.mr-auto.ml-1.cal_courses_flt.custom-select.select {
+	margin-left: 10px;
+	color: #000;
+}
+
+.mr-auto.ml-1.cal_courses_flt.custom-select.select:focus {
+	color: #f8f8f8;
+}
+
+.dropdown-toggle.btn-outline-secondary.btn {
+	margin-left: 10px;
+	margin-bottom: 8px;
+}
+
+.btn-outline-secondary {
+	color: #fff;
+	background-color: #323336FF;
+	border-color: #323336FF;
+}
+
+.dropdown-toggle.btn-outline-secondary.btn:focus {
+	box-shadow: 0 0 0 0.2rem rgb(134 142 150 / 0%);
+	outline-style: none;
+	border: 2px solid #323336FF;
+}
+
+.float-right.float-sm-right.btn-secondary.btn {
+	margin-right: 10px;
+	height: 40px;
+}
+
+.path-calendar .maincalendar .bottom {
+	text-align: center;
+	padding: 15px 0 15px 0px;
+}
+
+/*Скролл*/
+
+::-webkit-scrollbar {
+	width: 15px;
+	background-color: #111112;
+}
+
+::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+	background-color: #323336FF;
+}
+
+::-webkit-scrollbar-track {
+	border-radius: 20px;
+	background-color: #18181AFF;
+}
+
+.pb-3.pt-3.col-12 > .card > .card-body {
+	padding: 10px;
+	padding-left: 25px;
+}
+
+.pt-3 {
+	padding-left: 16px!important;
+	padding-right: 16px!important;
+	padding-top: 3rem!important;
+}
+
+.col-12 {
+	padding-right: 1rem;
+	padding-left: 1rem;
+	margin: 0px auto;
+}
+
+h3.sectionname {
+	border-top: 4px solid #323336;
+	border-radius: 10px 10px 0 0;
+	padding: rem;
+	border-bottom: 0px dashed #323336;
+	background-color: #18181a;
+}
+
+li.section.hidden h3.sectionname {
+	border-top: 4px solid #323336;
+	border-radius: 0px 0px 0 0;
+	padding: rem;
+	border-bottom: 0px dashed #dee2e6;
+	background-color: #18181a;
+}
+
+li.section.hidden .content {
+	background-color: #18181A;
+}
+
+.badge-info {
+	color: #f8f8f8;
+	background-color: #186bae;
+	border-radius: 4px;
+	padding: 4px;
+}
+
+.ishidden.availabilityinfo {
+	padding-left: 15px;
+}
+
+.section li.activity:hover {
+	-webkit-transition: all .3s cubic-bezier(.25,.8,.25,1);
+	-o-transition: all .0s cubic-bezier(.25,.8,.25,1);
+	transition: all .0s cubic-bezier(.25,.8,.25,1);
+	background-color: #454545FF;
+}
+
+a {
+	color: #f8f8f8;
+}
+
+a:hover {
+	color: #5a88ce;
+}
+
+btn-secondary {
+	background-color: #5a88ce;
+}
+
+.media-body {
+    /* word-break: break-all; */
+	font-size: 13.5px;
+}
+
+/*стрелки*/
+.page-link {
+	position: relative;
+	display: block;
+	padding: 0.5rem 0.75rem;
+	margin-left: -1px;
+	line-height: 1.25;
+	color: #f8f8f8;
+	background-color: #323336;
+	border: 0px solid;
+	outline: none;
+}
+
+.page-link:hover {
+	background-color: #4F5055;
+	color: #f8f8f8;
+}
+
+.page-link:active, .page-link:focus,
+.page-link:active::after, .page-link:active::before, .page-link:focus::before,.page-link:focus::after {
+	outline: none;
+}
+
+.btn-primary:hover {
+	color: #fff;
+	background-color: #08457e;
+	border-color: #08457e;
+}
+
+/*троеточие*/
+.block .block-cards .btn.btn-link.btn-icon:hover, .block .block-cards .btn.btn-link.btn-icon:focus {
+	background-color: #323336;
+	border: 0px solid;
+}
+
+/*подвал*/
+
+#page-wrapper #page-footer {
+	flex-shrink: 0;
+	background-color: #18181A;
+}
+
+.fa-stack {
+	color: #f8f8f8;
+}
+
+.fa-youtube:before {
+	color: #111112;
+}
+
+.fa-globe:before {
+	color: #111112;
+}
+
+
+/*Выдвижное меню*/
+
+
+#yui_3_17_2_1_1681856892580_59 > .dropdown-toggle.btn-outline-secondary.btn::before {
+	border-radius: 0 0 0 0;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+	color: #fff;
+	text-decoration: none;
+}
+
+.show.align-tr-br.menu.dropdown-menu-right.dropdown-menu {
+	left: -5px;
+}
+
+.dropdown-item:hover, .dropdown-item:focus {
+	color: #f8f8f8;
+	text-decoration: none;
+	background-color: #18181A;
+}
+
+
+
+
+
+/*Страница "Участники*/
+.border.border-radius.bg-light.p-2.my-2.filter-group{
+  background-color: #262629;
+  border-radius: 10px;
+  margin: 12px 16px 16px 0;
+}
+
+.align-items-md-start.flex-md-row.flex-column.d-flex.border.bg-white.p-2.my-2.border-radius{
+  background-color: #262629;
+}
+
+div[role=main]{
+  padding-left: 16px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.custom-select{
+  border-radius: 8px;
+  outline: 4px solid #262629;
+}
+
+#form_autocomplete_input-1681901523815{
+  border-radius: 8px;
+}
+
+.page-item.active .page-link, .page-item.active .page-link:hover, .page-item.active .page-link:focus {
+    background-color: #606062;
+}
+
+.pagination-sm .page-link {
+  background-color: #262629;
+}
+
+.form-autocomplete-suggestions {
+    position: absolute;
+    background-color: #fff;
+    border: 0px solid #dee2e6;
+    border-radius: 3px;
+    min-width: 10px;
+    max-height: 20em;
+    overflow: auto;
+    margin: 0;
+    padding: 0;
+    margin-top: 0.4em;
+    z-index: 1;
+    color: #111112;
+    padding-left: 26px;
+    padding-right: 10px;
+
+}
+
+
+/*Уведомления*/
+.navbar .popover-region-container {
+    background-color: #18181A;
+    border-radius: 6px;
+    border: 3px solid #606062
+    
+}
+
+.popover-region-footer-container {
+    border-radius:  6px;
+    background-color: #18181A;
+    border-top: 0px;
+}
+
+
+/*Загрузка*/
+.overlay-icon-container{
+  background-color: #18181A00;
+}
+
+.col-md-6.p-0.d-flex.align-items-center{
+  color: #18181A ;
+  background-color: #18181A;
+}
+
+/*Личные файлы*/
+.fp-iconview .fp-filename-field .fp-filename {
+    background: #262629;
+    padding-top: 5px;
+    padding-bottom: 12px;
+    min-width: 112px;
+    padding-left: 10px;
+}
+
+.fade.in {
+  background-color: #262629;
+  margin: 0px 15px;
+  margin-bottom: 5px;
+  border-radius: 8px;
+  color:#5a88ce; 
+}
+
+.close:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.close{
+  color:#fff;
+  text-decoration: none;
+}
+
+.fp-pathbar .fp-path-folder {
+  filter: invert(1);
+}
+.filepicker-filelist .filepicker-container, .filemanager.fm-noitems .fm-empty-container {
+  border: 2px dashed #595960;
+  border-radius: 8px;
+}
+
+.aalink.fp-path-folder-name{
+  color: #000;
+}
+
+#filemanager-643fe50519e5f > .mb-0.card.bg-faded.fp-navbar{
+  border: 0px;
+}
+
+#fitem_id_files_filemanager > .felement.form-inline.col-md-9{
+  left: -180px;
+}
+
+#id_files_filemanager_label{
+  margin-left:165px;
+}
+
+
+.page-header-headings{
+  top: 5px;
+  left: -5px;
+  
+}
+
+.fp-restrictions{
+  margin-left:px;
+}
+
+
+
+#fgroup_id_buttonar > .col-md-3{
+  display: none;
+}
+
+#fgroup_id_buttonar > .felement.form-inline.col-md-9{
+  position: relative;
+  left: 170px;
+}
+
+#yui_3_17_2_1_1683713958447_314{
+  font-size: 13px;
+  position: relative;
+  right: 5px;
+}
+
+.btn-sm.btn-secondary.btn.fp-vb-details{
+  margin: 0px 4px;
+}
+
+
+.filepicker-filelist .dndupload-target, .filemanager-container .dndupload-target {
+  background: #111112;
+  border: 2px dashed #186bae;
+  border-radius: 8px;
+}
+
+.progress-bar {
+  color: #262629;
+  border-radius: 10px;
+}
+
+.progress {
+  background-color: #262629;
+  border-radius: 10px;
+}
+
+.fp-iconview .fp-thumbnail:hover {
+    background: #262628;
+    border: 1px solid #697582;
+    border-radius: 8px;
+}
+
+.fp-iconview .fp-thumbnail {
+    border: 0px solid;
+    background-color: #262629;
+    border-radius: 8px;
+}
+
+
+.fp-iconview .fp-thumbnail img {
+    border: 0px solid;
+    border-radius: 8px;
+}
+
+
+
+.moodle-dialogue-base .moodle-dialogue-wrap .moodle-dialogue-hd {
+    border-bottom: 2px solid #272A2D;
+}
+
+.moodle-dialogue-base .moodle-dialogue-wrap {
+    background-color: #18181A;
+    border: 0px solid #ccc;
+    border-radius: 10px;
+    padding: 6px;
+}
+
+.form-control {
+    border-color: #262629 !important;
+    color: #f8f8f8;
+}
+
+
+.form-control:focus {
+    box-shadow: 0 0 0 0.2rem rgb(24 107 174 / 0%);
+    background-color: #18181A;
+}
+
+.fp-select .fp-thumbnail{
+    border: 0px solid ;
+    position: relative;
+    top: -10px;
+    background-color: #262629;
+    border-radius: 10px;
+}
+
+.fp-select .fp-thumbnail img {
+    border: 0px solid;
+    border-radius: 10px;
+}
+
+[id^=fm-dialog-label_yui]{
+  color: #f8f8f8;
+}
+
+.moodle-dialogue-base .closebutton::after {
+    color: #f8f8f8;
+}
+
+[id="yui_3_17_2_1_1683716340249_181"]{
+  padding-bottom: 10px;
+}
+
+[id="yui_3_17_2_1_1683716340249_185"]{
+  padding-bottom: 10px;
+}
+
+[id =choose-license-645b78f405f3a645b78f3f129215]{
+  padding-bottom: 10px;
+}
+
+.custom-select:focus {
+    border-color: #373a3c;
+    background-color: #18181a;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Замена иконок*/
+
+/*Скрепка*/
+[src^="https:/\/online-edu.mirea.ru/theme/image.php?theme=fordson&component=url"] {
+  filter: grayscale(1) invert(1);
+}
+
+/*Псина*/
+[src^="https:/\/online-edu.mirea.ru/theme/image.php?theme=fordson&component=webinars"]{
+  filter: invert(0.8);
+}
+
+/*Значок чата*/
+[src^="https:/\/online-edu.mirea.ru/theme/image.php?theme=fordson&component=forum"]{
+  filter: grayscale(0.9);
+
+}
+
+/*стрелка*/
+.dndupload-arrow {
+  background: url("https://i.ibb.co/TqtXrS9/Arrow-Down-PNG-Background.png;");
+  width: 10%;
+  height: 70px;
+  left: 430px;
+  filter: invert(1);
+  opacity: 0.8;
+
+}
+
+
+
+.navbar-fhs .navbar-nav .nav-link:hover, .navbar-fhs .navbar-nav .nav-link:focus {
+    outline-offset: 0px solid;
+}
+
+#page-my-index .btn-outline-secondary, #page-my-index .dropdown-item.active, .dropdown-item:active .dropdown-item:focus {
+    outline: 0;
+    outline-offset: 0;
+    border: none;
+}
+
+
+/* УДАЛЕНИЕ ТУПОГО СИНЕГО ЦВЕТА ПРИ ФОКУСЕ*/
+
+
+/*В ШАПКЕ В ПРАВОЙ МЕНЮШКЕ*/
+.usermenu:focus-within, div.dropdown-item:focus-within {
+    outline: 0;
+    -webkit-box-shadow: 0 0 0 0.2rem rgb(24 107 174 / 25%);
+    box-shadow: 0 0 0 0.2rem rgb(24 107 174 / 0%);
+}
+
+/*ШАПКА И ЛЕВАЯ МЕНЮШКА*/
+.aabtn.focus, .btn-link.focus, .nav-link.focus, .atto_link_button.focus, [role="button"].focus, .list-group-item-action.focus, input[type="checkbox"].focus, input[type="radio"].focus, input[type="file"].focus, input[type="image"].focus, .sr-only-focusable.focus, a.dropdown-item.focus, a.dropdown-toggle.focus, .modal-dialog[tabindex="0"].focus, .moodle-dialogue-base .closebutton.focus, button.close.focus, .aabtn:focus, .btn-link:focus, .nav-link:focus, .atto_link_button:focus, [role="button"]:focus, .list-group-item-action:focus, input[type="checkbox"]:focus, input[type="radio"]:focus, input[type="file"]:focus, input[type="image"]:focus, .sr-only-focusable:focus, a.dropdown-item:focus, a.dropdown-toggle:focus, .modal-dialog[tabindex="0"]:focus, .moodle-dialogue-base .closebutton:focus, button.close:focus {
+    outline: 0;
+    -webkit-box-shadow: 0 0 0 0.2rem rgb(24 107 174 / 0%);
+    box-shadow: 0 0 0 .2rem rgb(24 107 174 / 0%);
+}
+
+
+.btn-outline-secondary:not(:disabled):not(.disabled):active:focus, .btn-outline-secondary:not(:disabled):not(.disabled).active:focus, .show>.btn-outline-secondary.dropdown-toggle:focus {
+    -webkit-box-shadow: 0 0 0 0.2rem rgb(134 142 150 / 0%);
+    box-shadow: 0 0 0 0.2rem rgb(134 142 150 / 10%);
+}
+
+
+.page-link:focus {
+    -webkit-box-shadow: 0 0 0 0.2rem rgb(24 107 174 / 0%);
+    box-shadow: 0 0 0 0.2rem rgb(24 107 174 / 0%);
+}
+
+
+/*Сессия закончилась*/
+.modal-content {
+  background-color: #18181a;
+  background-clip: padding-box;
+  border: 0px solid;
+  border-radius: 10px;
+}
+
+.modal-footer {
+    border-top: 0px solid #262629;
+}
+
+.modal-header {
+  border-bottom: 0px;
+}
+
+#page-my-index {
+    background-color: #111112;
+}
+
+.btn-secondary:hover {
+    border-color: #cbd3da00;
+}
+
+.card {
+    border: 1px solid rgb(0 0 0 / 0%) !important;
+}
+
+
+#region-main-box>.d-print-none {
+    padding-top: 148px !important;
+}
+
+div[role=main] {
+    padding-left: 0px !important;
+    padding-top: 8px !important;
+    border-radius: 10px !important;
+}
+
+
+.pagelayout-mydashboard #region-main {
+    border: 0 !important;
+    padding: 0rem !important;
+    margin-top: 0 !important;
+}
+
+
+.page-item.disabled .page-link {
+    color: #868e96 !important;
+    background-color: #323336 !important;
+    border-color: #dee2e6 !important;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+    background-color: #21252994 !important;
+}
+
+.btn-secondary:not(:disabled):not(.disabled):active, .btn-secondary:not(:disabled):not(.disabled).active, .show>.btn-secondary.dropdown-toggle {
+    border-color: #c4ccd400 !important;
+}
+
+
+.block .block-cards a.coursename, .block .block-cards .btn-link {
+    color: #f8f8f8 !important;
+}
+
+.block .block-cards a.coursename:hover, .block .block-cards .btn-link:hover {
+    color: #5a88ce !important;
+}
+
+
+.border, .filemanager-container, .filepicker-filelist {
+    border: 0px solid #dee2e600!important;
+}
+
+.navbar-fhs .navbar-nav .nav-link:hover, .navbar-fhs .navbar-nav .nav-link:focus {
+    color: #868e96 !important;
+}
+
+.navbar-fhs .navbar-brand:hover, .navbar-fhs .navbar-brand:focus {
+    color: #868e96 !important;
+}
+
+
+.dropdown-item {
+    color: #f8f9fa !important;
+}
+
+.dropdown-item:hover, .dropdown-item:focus {
+    color: gray !important;
+}
+
+
+/*Страница Оценки*/
+th{
+  color:#f8f8f8;
+}
+
+td{
+  color: #f8f8f8;
+}
+
+.generaltable th, .generaltable td {
+    padding: 0.75rem;
+    vertical-align: top;
+    border-top: 1px solid #495057;
+}
+
+.custom-select {
+    border-radius: 8px !important;
+    outline: 0px solid #262629 !important;
+}
+
+@media (min-width: 576px){
+.form-inline .input-group, .form-inline .custom-select {
+  margin-left: auto;
+
+}}
+
+.custom-select:focus {
+    -webkit-box-shadow: 0 0 0 0.2rem rgb(24 107 174 / 25%);
+    box-shadow: 0 0 0 0.2rem rgb(24 107 174 / 0%);
+}
+
+/*общее*/
+h2 {
+    padding-left: 25px !important;
+}
+
+/*оповещение о непрочитанном сообщении*/
+.forumpost.unread .row.header, .path-course-view .unread, span.unread {
+    background-color: #186bae;
+    padding: 2px 8px;
+    border-radius: 5px;
+}
+
+
+/*Учебный портал рту мирэа*/
+.invisiblefieldset {
+    padding-left: 10px;
+}
+
+.form-control{
+  background-color: #262629;
+  border-radius: 8px;
+  margin-right: 2px;
+  margin-left: 2px;
+}
+
+
+custom-select:focus{
+  border-color: #5daae9 !important;
+    background-color:#262629!important;
+    color: #D5D5D5FF;
+}
+
+
+
+
+/*Остальное*/
+
+.path-mod-assign td.submissionnotgraded, .path-mod-assign div.submissionnotgraded {
+    background-color: #262629;
+}
+
+strong > span{
+  background-color: #00000000;
+}
+
+strong > span > span{
+  background-color: #00000000;
+}
+
+.form-control {
+  border-color: #262629;
+}
+
+
+
+option {
+    color:#f8f8f8;
+}
+
+
+
+[href="https:/\/lk.mirea.ru"]:hover{
+  color:#f8f8f8;
+  text-decoration: none;
+}
+
+[href="https:/\/online-edu.mirea.ru/calendar/view.php?view=month"]:hover{
+  color: #f8f8f8;
+  text-decoration: none;
+}
+
+[href="https:/\/online-edu.mirea.ru/grade/report/overview/index.php"]:hover{
+  color: #f8f8f8;
+  text-decoration: none;
+}
+
+[href="https:/\/online-edu.mirea.ru/course/"]:hover{
+  color: #f8f8f8;
+  text-decoration: none;
+}
+
+
+.btn.btn-secondary:hover{
+  background-color: #08457e;
+}
+
+.btn-outline-secondary:not(:disabled):not(.disabled):active:focus, .btn-outline-secondary:not(:disabled):not(.disabled).active:focus, .show>.btn-outline-secondary.dropdown-toggle:focus {
+    -webkit-box-shadow: 0 0 0 0.2rem rgb(134 142 150 / 0%);
+    box-shadow: 0 0 0 0.2rem rgb(134 142 150 / 0%);
+}
+
+
+.btn-outline-secondary:hover {
+    color: #fff;
+    background-color: #323336FF;
+    border-color: #323336FF;
+}
+
+
+.btn-outline-secondary{
+  background-color: #323336FF;
+}
+
+.btn-outline-secondary:focus, .btn-outline-secondary.focus {
+    -webkit-box-shadow: 0 0 0 0.2rem rgb(134 142 150 / 0%);
+    box-shadow: 0 0 0 0.2rem rgb(134 142 150 / 0%);
+}
+
+
+
+#page-my-index .btn-outline-secondary, #page-my-index .dropdown-item.active, .dropdown-item:active .dropdown-item:focus {
+    padding: 10px 15px 10px 15px ;
+}
+
+
+/*Тестирования дроп-меню - успех*/
+
+[aria-labelledby="groupingdropdown"]{
+  width: 235px;
+  top: -10px;
+  border: none;
+  border-radius: 0px 0px 10px 10px;
+}
+
+[aria-labelledby="sortingdropdown"]{
+  width: 195px;
+  word-break: break-all;
+  height: 130px;
+  overflow-wrap: break-word;
+  top: -10px;
+  outline: none;
+  border: none;
+  border-radius: 0px 0px 10px 10px;
+}
+
+
+.dropdown-item.active, .dropdown-item:active {
+    background-color: #111112;
+}
+
+.dropdown-item {
+    color: #f8f8f8;
+}
+
+[aria-label="Сортировать курсы по дате последнего посещения"]{
+  position: relative;
+  font-size: 14px;
+  left: -10px;
+
+}
+
+.label_d42a._bottom_c16c{
+  display: none;
+}
+
+[data-active-item-button-aria-label-components="pagedcontentpagingbaritemsperpage, core"]{
+  position: re;
+  width: 10px;
+  top: -5px;
+  left: -40px;
+   border-radius: 10px 10px 10px 10px;
+   text-align: center;
+}
+
+.show.align-tr-br.menu.dropdown-menu-right.dropdown-menu{
+  border: none;
+}
+
+
+@media only screen and (max-width: 900px) {
+  .iconset .btn.btn-secondary {
+    min-width: 265px;
+    }
+}
+
+.cssLeaf_c8fb{
+  display: none;
+}
+
+[class="label_e90f _bottom_cddc __show_f2fd notranslate"]{
+  background: linear-gradient(301deg, rgb(99 99 102) 20%, rgb(50 51 54) 80%);
+  display: none;
+}
+
+.label_e90f._bottom_cddc {
+    min-width: 250px;
+}
+
+.path-mod-assign td.latesubmission, .path-mod-assign a:link.latesubmission, .path-mod-assign div.latesubmission {
+  background-color: #B40808FF;
+}
